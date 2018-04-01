@@ -33,3 +33,4 @@ admin.initializeApp({
 });
 
 const db = admin.database();
+console.log(db);
